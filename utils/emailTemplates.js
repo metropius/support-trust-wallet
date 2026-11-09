@@ -114,7 +114,7 @@ function buildTemplateModern({ subject, messageHtml, logoUrl, buttonText, button
           ${logoBlock(logoUrl)}
           <tr>
             <td style="padding:12px 32px 4px;font-family:Inter,Arial,sans-serif;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;color:#5b8def;">
-              Trust Wallet Support
+              
             </td>
           </tr>
           <tr>
